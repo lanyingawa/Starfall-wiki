@@ -1,9 +1,22 @@
 {
-  "customcrops_dir": "C:\\Users\\兰颖\\Documents\\Flux\\ItemsAdder\\contents\\elitecreatures\\configs\\elitecreatures\\sakura_furniture_v2\\resources\\星露谷作物",
-  "customfishing_dir": "C:\\Users\\兰颖\\Documents\\Flux\\ItemsAdder\\contents\\elitecreatures\\configs\\elitecreatures\\sakura_furniture_v2\\resources\\星露谷钓鱼",
-  "farmer_dir": "C:\\Users\\兰颖\\Documents\\Flux\\ItemsAdder\\contents\\elitecreatures\\configs\\elitecreatures\\sakura_furniture_v2\\resources\\农夫乐事",
-  "recipes_count": 340,
-  "crops_count": 18,
-  "fish_count": 50,
-  "arch_items_count": 32
+  "base_recipe_pages": 8,
+  "furniture_recipe_pages": 3,
+  "added_furniture_recipes": 64,
+  "furniture_pages": [
+    {
+      "name": "星落小镇 · 樱庭家具",
+      "file": "furniture-a6c42994.html",
+      "count": 10
+    },
+    {
+      "name": "星落小镇 · 和风家具壹",
+      "file": "furniture-48230ca5.html",
+      "count": 31
+    },
+    {
+      "name": "星落小镇 · 和风家具叁",
+      "file": "furniture-e561e9be.html",
+      "count": 23
+    }
+  ]
 }
